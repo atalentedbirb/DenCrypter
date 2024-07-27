@@ -19,18 +19,17 @@ git clone https://github.com/atalentedbirb/DenCrypter.git
 ```
 python Krytos.py
 ``` 
-
-
 ### Or Run the executable (Windows only)
 
-Download from release page and run the exe file only. Make sure you download the whole folder.
+Download from release page and run the exe file only. 
+Make sure you download the whole folder. 
+🧠 Run the ```DenCrypt``` executable.
 
 ### Common Points
-
-The encrypted and decrypted files will be stored in SavedfilesEncrypt and SavedfilesDecrypt unless specified. The program is self explanatory.
+The encrypted and decrypted files will be stored in SavedfilesEncrypt and SavedfilesDecrypt by default. The program is self explanatory and has a help section in it.
 
 ## Caution
 
-This program uses python os module so its advisable not to do tomfoolery with it. 
+This program uses python os module so its advisable not to do tomfoolery with it.
 
 ## More to come soon (hopefully...)
