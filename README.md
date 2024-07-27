@@ -27,8 +27,13 @@ Download from releases page. Extract the file.
 
 The encrypted and decrypted files will be stored in SavedfilesEncrypt and SavedfilesDecrypt by default. The program is self explanatory and has a help section in it.
 
+## Credits:
+
+GeekForGeeks for algorithm.
+
 ## Caution
 
 This program uses python os module so its advisable not to do tomfoolery with it. 
 
-## More to come soon (hopefully...)
+## More to come soon 
+(hopefully...)
